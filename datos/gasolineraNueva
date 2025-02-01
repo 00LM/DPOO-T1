@@ -1,0 +1,12 @@
+tipo:Juan3:12000:90000.0
+tipo:Juan2:2000:1.0
+tipo:Juan4:7000:40.0
+tipo:Juan:19000:29.0
+surtidor:Pablo:Juan3:0.0:Juan2:0.0:Juan4:0.0:Juan:0.0
+surtidor:Tomás:Juan3:0.0:Juan2:0.0:Juan4:0.0:Juan:0.0
+surtidor:Paula:Juan3:0.0:Juan2:0.0:Juan4:0.0:Juan:0.0
+surtidor:Paula:Juan3:0.0:Juan2:0.0:Juan4:0.0:Juan:0.0
+empleado:Pablo:0
+empleado:Lina:0
+empleado:Tomás:0
+empleado:Paula:0
